@@ -80,6 +80,8 @@ Provide a clear visual representation of system functionalities.
 Help in identifying and organizing system requirements.
 Facilitate communication among stakeholders and development team.
 
+![Booking Use Case Diagram](alx-booking-uc.png)
+
 ## Acceptance Criteria ✅.
 
 **Objective:** Establishing clear criteria for feature completion.
